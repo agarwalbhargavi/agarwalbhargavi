@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Bhargavi 👋<br><br>ECE student by degree. Backend engineer by obsession.<br>Backend by day, bug hunter by night. 🐛Also I build the part of the internet you never see. 🕸️<br><br>🔭 What I'm up to<br>- 🎓 4rd-year ECE @ Dayananda Sagar College of Engineering, Bengaluru<br>- 🎯 Aiming for Backend / SDE / AI Engineer roles<br>- 🧩 Grinding contests on Codeforces, CodeChef and LeetCode<br><br>🏸 Beyond the code<br>- Badminton player: multiple zonal and state tournament wins<br>- Lead Editor of my department newsletter team<br>- Volunteer with Rupee for Humanity (RFH)<br>- Won a Business Model Canvas competition.<br><br>> "I build things that work, then make them work better."
+Hey, I'm Bhargavi 👋<br><br>ECE student by degree. Backend engineer by obsession.<br>Backend by day, bug hunter by night. 🐛Also I build the part of the internet you never see. 🕸️<br><br>🔭 What I'm up to<br>- 🎓 4rd-year ECE @ Dayananda Sagar College of Engineering, Bengaluru<br>- 🎯 Aiming for Backend / SDE / AI Engineer roles<br>- 🧩 Grinding contests on Codeforces, CodeChef and LeetCode<br><br>🏸 Beyond the code<br>- Badminton player: multiple zonal and state tournament wins<br>- Lead Editor of my department newsletter team<br>- Volunteer with Rupee for Humanity (RFH)<br><br>> "I build things that work, then make them work better."
 
 
 ## 🌐 Socials:
