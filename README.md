@@ -1,16 +1,94 @@
-# 💫 About Me:
-Hey, I'm Bhargavi 👋<br><br>ECE student by degree. Backend engineer by obsession.<br>Backend by day, bug hunter by night. 🐛Also I build the part of the internet you never see. 🕸️<br><br>What I'm up to<br>- 🎓 4th-year ECE @ Dayananda Sagar College of Engineering, Bengaluru<br>- 🎯 Aiming for Backend / SDE / AI Engineer roles<br>- 🧩 Grinding contests on Codeforces, CodeChef and LeetCode<br><br>Beyond the code<br>- Badminton player: multiple zonal and state tournament wins<br>- Lead Editor of my department newsletter team<br>- Volunteer with Rupee for Humanity (RFH)<br><br>> "I build things that work, then make them work better."
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E78FF,100:FF7EB3&height=220&section=header&text=Bhargavi%20Agarwal&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20Engineer&descSize=24&descAlignY=60" width="100%" alt="Bhargavi Agarwal, Software Developer and Backend Engineer" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1600&color=8E78FF&center=true&vCenter=true&width=700&height=50&lines=Building+the+part+of+the+internet+you+never+see" width="100%" alt="Building the part of the internet you never see" />
+</p>
 
+<p align="center">
+<a href="https://linkedin.com/in/bhargavi-agarwal-345675270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:agarwalbhargavi07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://leetcode.com/u/BhargaviAgarwal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> <a href="https://codeforces.com/profile/agarwalbhargavii"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> <a href="https://www.codechef.com/users/a_b_12"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargavi-agarwal-345675270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalbhargavi07@gmail.com) 
+## 🧬 about
 
-## 💻 Coding Profiles:
+```python
+me = {
+    "does":     "builds backends, APIs",
+    "based":    "Bengaluru, India",
+    "was":      "SDE Intern @ Naviga Technology Solutions",
+    "degree":   "Final year student, Dayananda Sagar College of Engineering",
+    "learning": "DSA in C++, system design, AI engineering",
+    "aiming":   ["Backend", "SDE", "AI Engineer"],
+}
+```
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/BhargaviAgarwal/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/agarwalbhargavii)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/a_b_12)
+<details>
+<summary><b>🌱 how I got here. click for the short version</b></summary>
+<br />
+<table>
+<tr><td><b>Summer 2026</b></td><td>Interned at Naviga Technology Solutions, building ETL pipelines and REST APIs</td></tr>
+<tr><td><b>Now</b></td><td>Final year student, going deep on backend, DSA and live contests</td></tr>
+<tr><td><b>Always</b></td><td>Badminton court, newsletter desk, volunteering with Rupee for Humanity</td></tr>
+</table>
+</details>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+## 💼 experience
 
+<table>
+<tr>
+<td width="36%" valign="top"><b>SDE Intern</b><br /><sub>Naviga Technology Solutions Pvt Ltd · Jun–Aug 2026</sub></td>
+<td valign="top">Built an automated ETL pipeline and REST APIs serving 33K+ records, cutting data ingestion from 4+ hours to a few minutes.</td>
+</tr>
+<tr>
+<td width="36%" valign="top"><b>Lead Editor</b><br /><sub>Department Newsletter Team, DSCE</sub></td>
+<td valign="top">Led a 5-member team editing and publishing the department newsletter.</td>
+</tr>
+<tr>
+<td width="36%" valign="top"><b>Volunteer</b><br /><sub>Rupee for Humanity (RFH)</sub></td>
+<td valign="top">Volunteering with the NGO on its social impact work.</td>
+</tr>
+</table>
+
+## 🚀 projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📰 NewsCraft AI</h3>
+<sub><b>full-stack · LLMs</b></sub>
+<p>AI newsletter automation platform with multi-user workspaces. Pulls emails through the Gmail API and turns selected ones into newsletter drafts with an LLM pipeline (in progress).</p>
+<p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Supabase</code> <code>LLMs</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏦 Bank Transaction System</h3>
+<sub><b>backend</b></sub>
+<p>Digital banking backend for account management, fund transfers and transaction tracking, secured with JWT auth and authorization middleware.</p>
+<p><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏸 Sports Tournament &amp; Academy Platform</h3>
+<sub><b>full-stack · real-time</b></sub>
+<p>Management platform for tournaments and academies across 3 user roles, with 5 modules, JWT + RBAC security and live scoring and notifications over Socket.IO.</p>
+<p><code>PostgreSQL</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Socket.IO</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>📂 <a href="https://github.com/YOUR_USERNAME?tab=repositories">More Work</a></h3>
+<sub><b>everything else</b></sub>
+<p>More projects live here.</p>
+</td>
+</tr>
+</table>
+
+## 🧰 stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,express,fastapi,postgres,mongodb,supabase,redis,git,github,postman&perline=9&theme=light" alt="Tech stack" />
+</p>
+
+<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+
+<p align="center">
+📧 <a href="mailto:agarwalbhargavi07@gmail.com">agarwalbhargavi07@gmail.com</a> &nbsp;·&nbsp; 📞 +91 8858058555
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:8E78FF&height=100&section=footer&text=I%20build%20things%20that%20work%2C%20then%20make%20them%20work%20better.&fontSize=22&fontColor=FFFFFF&fontAlignY=60" width="100%" alt="I build things that work, then make them work better." /></p>
