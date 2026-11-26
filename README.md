@@ -79,6 +79,23 @@ me = {
 </tr>
 </table>
 
+## 📌 featured repos
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/air-quality-dashboard"><img src="assets/card-air-quality-dashboard.svg" alt="air-quality-dashboard" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/backend-project1"><img src="assets/card-backend-project1.svg" alt="backend-project1" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/NewsCraft_AI"><img src="assets/card-NewsCraft_AI.svg" alt="NewsCraft_AI" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/sports-tournament-and-academy-management"><img src="assets/card-sports-tournament-and-academy-management.svg" alt="sports-tournament-and-academy-management" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/aaradhya_setu_assignment"><img src="assets/card-aaradhya_setu_assignment.svg" alt="aaradhya_setu_assignment" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/agarwalbhargavi/AI-powered-Client-Briefing-Research-application"><img src="assets/card-AI-powered-Client-Briefing-Research-application.svg" alt="AI-powered-Client-Briefing-Research-application" width="100%"/></a></td>
+</tr>
+</table>
+
 ## 🧰 stack
 
 <p align="center">
